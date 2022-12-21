@@ -37,7 +37,7 @@ def circulate():
 
 ## Output:
 
-![Uploading nvariables.png…]()
+![](./nvariables.png)
 
 ## Result:
 
